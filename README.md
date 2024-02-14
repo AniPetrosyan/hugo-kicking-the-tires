@@ -22,11 +22,11 @@ Pages
 
 1. Clone this repository to your local machine:
 
-`git clone https://github.com/yourusername/your-repository-name.git`
+`git clone https://github.com/AniPetrosyan/hugo-kicking-the-tires.git`
 
 2. Navigate into the repository's directory:
    
-`cd your-repository-name`
+`cd hugo-kicking-the-tires`
 
 1. Start the Hugo server:
 
